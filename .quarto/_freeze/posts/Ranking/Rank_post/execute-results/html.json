@@ -1,0 +1,16 @@
+{
+  "hash": "40fd0f7919bc338c751e093040022c76",
+  "result": {
+    "markdown": "---\ntitle: \"Ранжирование\"\ndescription: \"Рассматриваем инструменты упорядочивания\"\nauthor: \"Игорь\"\ndate: \"5/22/2023\"\ncategories:\n  - Learning to rank\n  - LambdaRank\nwebsite:\n  comments: \n    utterances:\n      repo: simplyigor/comments_test\n---\n\n\n## Код \n\n\n::: {.cell}\n\n```{.r .cell-code .code-overflow-wrap}\n# very long line of code....\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(c(1, 2, 3, 4, 5), c(3, 7, 8, 9, 12))\n```\n\n::: {.cell-output-display}\n![](Rank_post_files/figure-html/unnamed-chunk-4-1.png){width=672}\n:::\n:::\n\n\n\n## Выводы\n\nКрутое заключние\n\n## Фидбек\n\n<script src=\"https://giscus.app/client.js\"\n        data-repo=\"simplyigor/comments_test\"\n        data-repo-id=\"R_kgDOJlj_gw\"\n        data-category=\"Announcements\"\n        data-category-id=\"DIC_kwDOJlj_g84CWoYN\"\n        data-mapping=\"title\"\n        data-strict=\"0\"\n        data-reactions-enabled=\"1\"\n        data-emit-metadata=\"0\"\n        data-input-position=\"bottom\"\n        data-theme=\"light\"\n        data-lang=\"ru\"\n        crossorigin=\"anonymous\"\n        async>\n</script>",
+    "supporting": [
+      "Rank_post_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

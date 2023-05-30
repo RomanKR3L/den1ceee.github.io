@@ -1,0 +1,17 @@
+{
+  "posts/Ranking/Rank_post.qmd": {
+    "Rank_post.html": "788f89fc"
+  },
+  "posts/XAI copy/XAI_post_copy.qmd": {
+    "XAI_post_copy.html": "ffd0ab3b"
+  },
+  "index.qmd": {
+    "index.html": "e7882b87"
+  },
+  "projects.qmd": {
+    "projects.html": "a44565f5"
+  },
+  "posts/Segmentation/Segment_post.qmd": {
+    "Segment_post.html": "d3f0311f"
+  }
+}

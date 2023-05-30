@@ -18,7 +18,7 @@
     "href": "posts/Ranking/Rank_post.html",
     "title": "Ранжирование",
     "section": "",
-    "text": "Крутое описание"
+    "text": "# very long line of code....\n\n\nplot(c(1, 2, 3, 4, 5), c(3, 7, 8, 9, 12))"
   },
   {
     "objectID": "posts/Ranking/Rank_post.html#выводы",
@@ -102,6 +102,34 @@
     "href": "projects.html",
     "title": "Проекты",
     "section": "",
-    "text": "Ранжирование\n\n\n\n\n\n\n\nLearning to rank\n\n\nLambdaRank\n\n\n\n\nРассматриваем инструменты упорядочивания\n\n\n\n\n\n\nMay 22, 2023\n\n\nИгорь\n\n\n\n\n\n\n\n\nСегментация\n\n\n\n\n\n\n\nSegmentation\n\n\nBusiness analytics\n\n\n\n\nПроводим сегментацию клиентов\n\n\n\n\n\n\nApr 12, 2023\n\n\nКатя, Маша, Игорь, Паша\n\n\n\n\n\n\n\n\nXAI\n\n\n\n\n\n\n\nInterpretable ML\n\n\nHeuristics\n\n\n\n\nИзучаем инструменты интерпретируемого ML\n\n\n\n\n\n\nMar 10, 2023\n\n\nКатя, Маша, Игорь, Паша\n\n\n\n\n\n\nNo matching items"
+    "text": "Ранжирование\n\n\n\n\n\n\n\nLearning to rank\n\n\nLambdaRank\n\n\n\n\nРассматриваем инструменты упорядочивания\n\n\n\n\n\n\nMay 22, 2023\n\n\nИгорь\n\n\n\n\n\n\n\n\nСегментация\n\n\n\n\n\n\n\nSegmentation\n\n\nBusiness analytics\n\n\n\n\nПроводим сегментацию клиентов\n\n\n\n\n\n\nApr 12, 2023\n\n\nКатя, Маша, Игорь, Паша\n\n\n\n\n\n\n\n\nXAI\n\n\n\n\n\n\n\nInterpretable ML\n\n\nHeuristics\n\n\n\n\nИзучаем инструменты интерпретируемого ML\n\n\n\n\n\n\nMar 10, 2023\n\n\nКатя, Маша, Игорь, Паша\n\n\n\n\n\n\n\n\nXAI\n\n\n\n\n\n\n\nInterpretable ML\n\n\nHeuristics\n\n\n\n\nИзучаем инструменты интерпретируемого ML\n\n\n\n\n\n\nMar 10, 2023\n\n\nКатя, Маша, Игорь, Паша\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/XAI copy/XAI_post_copy.html",
+    "href": "posts/XAI copy/XAI_post_copy.html",
+    "title": "XAI",
+    "section": "",
+    "text": "Крутое описание2314124124124"
+  },
+  {
+    "objectID": "posts/XAI copy/XAI_post_copy.html#выводы",
+    "href": "posts/XAI copy/XAI_post_copy.html#выводы",
+    "title": "XAI",
+    "section": "Выводы",
+    "text": "Выводы\nКруто24234234234 заключние"
+  },
+  {
+    "objectID": "posts/XAI copy/XAI_post_copy.html#фидбек2324234234",
+    "href": "posts/XAI copy/XAI_post_copy.html#фидбек2324234234",
+    "title": "XAI",
+    "section": "Фидбек2324234234",
+    "text": "Фидбек2324234234"
+  },
+  {
+    "objectID": "posts/Segmentation/Segment_post.html#задачи",
+    "href": "posts/Segmentation/Segment_post.html#задачи",
+    "title": "Сегментация",
+    "section": "Задачи",
+    "text": "Задачи\nКрутая аннотация"
   }
 ]
