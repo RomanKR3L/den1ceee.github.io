@@ -1,14 +1,15 @@
 ---
 title: "Денис Капитонов"
-image: grad.jpg
+image: darkness_meme.jpg
 about:
   template: solana
-  image-shape: round
 ---
 
 <a href="https://www.linkedin.com/in/deniskapitonovv"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="deniskapitonovv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/dakapitonov"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+## 💫 About Me:
 
 Привет! Я студент 1-го курса магистерской программы ["UX-аналитика и проектирование информационных систем."](https://spb.hse.ru/ma/computer/) Люблю социологию, дизайн и статистические методы. На досуге читаю про генетику, притворяясь, что все понимаю 🤪
 
@@ -18,7 +19,7 @@ about:
 -   Знаю чем модератор отличается от конфаундера
 -   Могу выговорить "дезоксирибонуклеиновая кислота"
 
-## Навыки
+## ⚡ Навыки
 
 **Soft-скиллы:**
 
@@ -29,4 +30,18 @@ about:
 `Python`{.label} `R`{.label} `CSS`{.label} `Text mining`{.label}
 
 `Supervised ML`{.label} `BA`{.label} `UX research`{.label}
+
+
+## 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+
+
 

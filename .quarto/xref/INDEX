@@ -16,5 +16,14 @@
   },
   "team.qmd": {
     "team.html": "9835a188"
+  },
+  "portfolio/index.qmd": {
+    "index.html": "8ef751a8"
+  },
+  "portfolio/cv_template.qmd": {
+    "cv_template.html": "c7d9cc65"
+  },
+  "individual_template.qmd": {
+    "individual_template.html": "f95675fb"
   }
 }
